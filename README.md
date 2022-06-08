@@ -1,2 +1,2 @@
 # Python-1
- Códigos em python  
+ Projetos em Python que eu fiz tanto para aprender a programara quanto para estudos
